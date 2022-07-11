@@ -1,0 +1,43 @@
+.loader {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  border-radius: 8px;
+  border: 5px solid $light-blue;
+  border-bottom-color: transparent;
+  border-radius: 50%;
+
+  animation: rotation 1s linear infinite;
+  margin: 20px auto;
+
+  &::after {
+    content: '';
+    width: 5px;
+    height: 5px;
+    background: $light-blue;
+    border-radius: 50%;
+    position: absolute;
+    top: 31.5px;
+    right: 1.3px;
+  }
+
+  &::before {
+    content: '';
+    width: 5px;
+    height: 5px;
+    background: $light-blue;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 1.5px;
+    left: 1.3px;
+  }
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
