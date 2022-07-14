@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Users-get-post-form/static/css/main.f496fe29.css",
-    "main.js": "/Users-get-post-form/static/js/main.924644bd.js",
-    "static/js/661.963d0093.chunk.js": "/Users-get-post-form/static/js/661.963d0093.chunk.js",
-    "static/js/301.7f7d5129.chunk.js": "/Users-get-post-form/static/js/301.7f7d5129.chunk.js",
-    "static/js/431.80621871.chunk.js": "/Users-get-post-form/static/js/431.80621871.chunk.js",
-    "static/media/pexels-alexandr-podvalny-1227513-_2_.webp": "/Users-get-post-form/static/media/pexels-alexandr-podvalny-1227513-_2_.fa417a62198fe1627758.webp",
-    "static/media/pexels-alexandr-podvalny-1227513-mobile.webp": "/Users-get-post-form/static/media/pexels-alexandr-podvalny-1227513-mobile.ff8c9ec35ddceae75fcc.webp",
-    "static/media/Logo.svg": "/Users-get-post-form/static/media/Logo.8bb55362d01d55393ccc5476d96f0c14.svg",
-    "static/media/success-image.png": "/Users-get-post-form/static/media/success-image.2a787fdc9bc501199014.png",
-    "static/media/photo-cover.svg": "/Users-get-post-form/static/media/photo-cover.fb98cf13a87225efe558669bdc541ac7.svg",
-    "index.html": "/Users-get-post-form/index.html",
-    "main.f496fe29.css.map": "/Users-get-post-form/static/css/main.f496fe29.css.map",
-    "main.924644bd.js.map": "/Users-get-post-form/static/js/main.924644bd.js.map",
-    "661.963d0093.chunk.js.map": "/Users-get-post-form/static/js/661.963d0093.chunk.js.map",
-    "301.7f7d5129.chunk.js.map": "/Users-get-post-form/static/js/301.7f7d5129.chunk.js.map",
-    "431.80621871.chunk.js.map": "/Users-get-post-form/static/js/431.80621871.chunk.js.map"
+    "main.css": "/test-task-abz-agency/static/css/main.7c081dd4.css",
+    "main.js": "/test-task-abz-agency/static/js/main.e665a854.js",
+    "static/js/661.963d0093.chunk.js": "/test-task-abz-agency/static/js/661.963d0093.chunk.js",
+    "static/js/301.7f7d5129.chunk.js": "/test-task-abz-agency/static/js/301.7f7d5129.chunk.js",
+    "static/js/431.80621871.chunk.js": "/test-task-abz-agency/static/js/431.80621871.chunk.js",
+    "static/media/pexels-alexandr-podvalny-1227513-_2_.webp": "/test-task-abz-agency/static/media/pexels-alexandr-podvalny-1227513-_2_.fa417a62198fe1627758.webp",
+    "static/media/pexels-alexandr-podvalny-1227513-mobile.webp": "/test-task-abz-agency/static/media/pexels-alexandr-podvalny-1227513-mobile.ff8c9ec35ddceae75fcc.webp",
+    "static/media/Logo.svg": "/test-task-abz-agency/static/media/Logo.8bb55362d01d55393ccc5476d96f0c14.svg",
+    "static/media/success-image.png": "/test-task-abz-agency/static/media/success-image.2a787fdc9bc501199014.png",
+    "static/media/photo-cover.svg": "/test-task-abz-agency/static/media/photo-cover.fb98cf13a87225efe558669bdc541ac7.svg",
+    "index.html": "/test-task-abz-agency/index.html",
+    "main.7c081dd4.css.map": "/test-task-abz-agency/static/css/main.7c081dd4.css.map",
+    "main.e665a854.js.map": "/test-task-abz-agency/static/js/main.e665a854.js.map",
+    "661.963d0093.chunk.js.map": "/test-task-abz-agency/static/js/661.963d0093.chunk.js.map",
+    "301.7f7d5129.chunk.js.map": "/test-task-abz-agency/static/js/301.7f7d5129.chunk.js.map",
+    "431.80621871.chunk.js.map": "/test-task-abz-agency/static/js/431.80621871.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f496fe29.css",
-    "static/js/main.924644bd.js"
+    "static/css/main.7c081dd4.css",
+    "static/js/main.e665a854.js"
   ]
 }
